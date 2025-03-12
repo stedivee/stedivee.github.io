@@ -10,4 +10,6 @@ body div    {
     padding: 50px 50px;
     margin-left: auto;
     margin-right: auto;
+    border: 1px dotted black;
+    box-shadow: 3px 3px gray;
 }
